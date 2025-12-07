@@ -1,0 +1,6 @@
+tuplee = (5,2,3)
+print(tuplee[0] * tuplee [1] + tuplee [2])
+tuplee.count(1)
+print(tuplee)
+listt = list(tuplee)
+print(listt)

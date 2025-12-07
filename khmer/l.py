@@ -1,0 +1,1 @@
+print("10 is stronger than 1" if 10>1 else "10 is not stronger than 1")
